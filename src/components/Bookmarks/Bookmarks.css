@@ -1,0 +1,9 @@
+.bookmarks-container {
+  width: 450px;
+  background-color: #1111110d;
+  border-radius: 8px;
+  height: 800px;
+  margin-top: 60px;
+  margin-left: 50px;
+  padding: 20px 10px;
+}
